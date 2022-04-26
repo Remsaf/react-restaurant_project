@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import App from "./App";
 import "materialize-css/dist/css/materialize.min.css";
 import "materialize-css/dist/js/materialize.min.js";
+import "jquery/dist/jquery.min.js";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
